@@ -1,0 +1,16 @@
+{
+  "name": "comp3123",
+  "version": "1.0.0",
+  "description": "Event and fs example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "nodejs",
+    "js"
+  ],
+  "author": "Abdulgafar Towolawi",
+  "license": "ISC"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "week03_event_fs_examples",
+  "version": "1.0.0",
+  "description": "Event and FS examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "module",
+    "nodejs",
+    "js",
+    "http",
+    "fs",
+    "events"
+  ],
+  "author": "Pritesh Patel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.6"
+  }
+}
